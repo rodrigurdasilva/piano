@@ -17,10 +17,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p class="image-left"><img width="300px" src="assets/screenshot.jpg" alt="screenchot"></p>
-
-
 ## 🚧 Projeto
+<img align="right" width="350" src="assets/screenshot.jpg" alt="screenshot" />
 
 ### Um piano virtual que pode ser tocado usando o clique do mouse ou as teclas correspondentes do teclado.
 
@@ -33,12 +31,3 @@
 ## 📝 Licença
 
 #### Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-<style type="text/css">
-  .image-left {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    float: right;
-  }
-</style>
